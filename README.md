@@ -35,14 +35,6 @@ A classic Simon Says memory game built using **HTML**, **CSS**, and **JavaScript
 * JavaScript Game Development
 * CSS Animations
 
-## 📸 Preview
-
-Add screenshots or a screen recording of your project here.
-
-## 🔗 Live Demo
-
-Add your deployed project link here.
-
 ## 👨‍💻 Author
 
 **Vaishnavi Shetty**
